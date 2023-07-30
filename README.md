@@ -2,6 +2,12 @@
 ![FitnessSmart- Cover](https://github.com/jolethayuson06/FitSmart/assets/140879047/8dfad10e-2006-4167-b76c-c98f999eadf1)
 FitSmart is a user-friendly and versatile mobile health app designed to help individuals maintain their fitness and track essential health metrics even when they are offline. The app offers a range of exercise routines and health calculators to promote overall well-being and encourage a healthy lifestyle.
 
+![FITSMART pic 1](https://github.com/jolethayuson06/FitSmart/assets/113767335/ff8c1b83-b8e1-4279-bc5a-93dc6ea49ec7)
+![FITSMART pic 2](https://github.com/jolethayuson06/FitSmart/assets/113767335/40770bb2-ada8-496c-9ff6-445c7ed77e7b)
+
+## Demo
+https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FW-xRYCzPBU8%3Ffbclid%3DIwAR0rHk6akHuQifHq9vPQCXN70PYUyix29-itK4S7OIep0wi_mrgAJYSB1Zc&h=AT0lIWx6q7wSbIXmdhgDM1A8MYzwE3C3rIHJSIuJY5C5t0qm4I99RzVaQqcVYH56O5xOPiGKvceX493U6cooGjUei7mpJvgSIQM6Xx8HgivNsVQqXz4Hk0e1dw4k9ZhIVyGNBg
+
 ## Overview
 The Fitness Calculator Menu is a mobile application that offers a comprehensive set of tools to help users assess and monitor various aspects of their health and fitness. It provides easy access to five different calculators: BMI, BMR, Body Fat, Body Shape, and Ideal Weight. Each calculator serves a unique purpose and empowers users to make informed decisions about their health and fitness goals.
 
